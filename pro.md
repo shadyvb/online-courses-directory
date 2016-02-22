@@ -28,3 +28,34 @@
 [Floqq](http://www.floqq.com/en)
 [Grade My Course](http://www.grademycourse.com)
 [Microsoft Virtual Academy](https://mva.microsoft.com)
+[W3schools](http://www.w3schools.com)
+[Free Code Camp](http://www.freecodecamp.com)
+[Dash](https://dash.generalassemb.ly)
+[Code Conquest](http://www.codeconquest.com)
+[Mozila Developer Network](https://developer.mozilla.org)
+[Top Free Classes](http://www.topfreeclasses.com)
+[Pluralsight](https://app.pluralsight.com)
+[MIT OpenCourseWar](https://www.youtube.com/user/MIT)Science and Technology
+[MIT OpenCourseWar](http://ocw.mit.edu)
+[California Berkeley](http://webcast.berkeley.edu)
+[Ted ED](http://ed.ted.com)
+[4programmer](http://4programmer.com)
+[Stanford University](https://see.stanford.edu/Course)
+[Harvard Unversity](http://www.extension.harvard.edu)
+[Open Yale](http://oyc.yale.edu)
+[engVid](https://www.youtube.com/user/engvidenglish)Learn English
+[Digital Photography School](http://digital-photography-school.com/tips)Learn Photography
+[Duolingo](https://www.duolingo.com)Learn a Language
+[Free Rice](http://freerice.com)To improve Language
+[Gibbon](https://gibbon.co)
+[Instructables](http://www.instructables.com)
+[Learn Vest](https://www.learnvest.com)
+[Spreeder](http://www.spreeder.com)Read 3x Faster
+[Unplug The TV](http://unplugthetv.com)
+[Wiki How](http://ar.wikihow.com)
+[Busuu](https://www.busuu.com/enc)Learn a Language
+[Canvas](https://www.canvas.net)
+[Do Awesome Thing](http://www.doawesomethings.com)
+[HubSpot](http://www.hubspot.com)
+[IVersity](https://iversity.org)
+[learn To Be](http://www.learntobe.org)

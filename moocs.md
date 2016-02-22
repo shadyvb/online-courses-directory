@@ -1,1 +1,1 @@
-[EDX] (http://edx.com)
+[EDX](http://edx.com)
